@@ -15,16 +15,21 @@ A project exercise for the JavaScript module on Start2Impact "Full-stack develop
 - Decrease the counter with the "-" button;
 - Reset the counter to "0".
 
+
 ## Development 
+
 1. Start with declaring the initial state;
 2. Create the DOM elements with appendChild;
 3. Create the functions to update the counter element, increase, decrease and reset the counter.
 4. Create one function for create, show and add the listener;
 5. Finally starts the button elements.
 
+
 ## Link 
+
 You can try this amazing counter in pure-Js at the link below: 
 https://js-counter-dn.netlify.app/
+
 
 ### Tech Stack
 
