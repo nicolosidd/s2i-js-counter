@@ -29,12 +29,6 @@ A project exercise for the JavaScript module on Start2Impact "Full-stack develop
 You can play with this amazing pure-js counter at this link: https://js-counter-dn.netlify.app/
 
 
-## Link 
-
-You can try this amazing counter in pure-Js at the link below: 
-https://js-counter-dn.netlify.app/
-
-
 ### Tech Stack
 
 - **JavaScript**
