@@ -6,6 +6,7 @@ A project exercise for the JavaScript module on Start2Impact "Full-stack develop
 
 - [Features](#features)
 - [Development](#developlemt)
+- [Link] (#link)
 - [License](#license)
 
 ## Features
@@ -21,6 +22,9 @@ A project exercise for the JavaScript module on Start2Impact "Full-stack develop
 4. Create one function for create, show and add the listener;
 5. Finally starts the button elements.
 
+## Link 
+You can try this amazing counter in pure-Js at the link below: 
+https://js-counter-dn.netlify.app/
 
 ### Tech Stack
 
