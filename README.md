@@ -5,11 +5,7 @@ A project exercise for the JavaScript module on Start2Impact "Full-stack develop
 ## Table of Contents
 
 - [Features](#features)
-<<<<<<< HEAD
-- [Development](#developlemt)
-=======
 - [Development](#developlment)
->>>>>>> 554c90d (Aggiornato link nel file README)
 - [Link] (#link)
 - [License](#license)
 
